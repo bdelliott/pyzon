@@ -1,0 +1,31 @@
+PyFB
+====
+
+About
+-------
+
+Pyzon is Python client code to access the Amazon Product Advertising API.
+
+In other words, Pyzon will let you access product data from Amazon.
+
+
+How to use
+----------
+
+The meat of the code is in paa.py.  
+
+Simply create an instance of ProductAdvertisingAPI and pass in your own associate tag and AWS keys to get started.  There are methods on the API class for doing item searches (item_search) and item lookups (item_lookup).
+
+
+License
+-------
+
+This software is offered under the MIT license.  See the LICENSE file.
+
+Help
+-------------    
+
+Please feel free to contact us at: contact "at" sparklesoftware.com (http://www.sparklesoftware.com)
+
+We're happy to field questions or discuss custom development opportunities.  Enjoy!
+
